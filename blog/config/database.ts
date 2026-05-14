@@ -70,12 +70,6 @@ const dbConfig = defineConfig({
     },
 
 
-// docker run -d --name postgres-adonis -e 
-// POSTGRES_USER=adonis -e POSTGRES_PASSWORD=123 -e 
-// POSTGRES_PASSWORD=123 -e 
-// POSTGRES_DB=adonis -p 5432:5432 postgres:16
-
-
 
 
     /**
